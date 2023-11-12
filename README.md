@@ -86,7 +86,9 @@ cases.
 ## Contact
 
 For the latest details, see: https://github.com/modern-email/FOSDEM-24
+
 Join the matrix room: https://matrix.to/#/#modern-email-fosdem-24-cfp:matrix.org
+
 Contact the organizers:
 
 * Benoit Tellier, btellier@linagora.com
