@@ -14,7 +14,7 @@ and visions for the future of email.
 
 The Devroom will be **held on Sunday, February 4** in the afternoon, with
 primarily talks on the schedule. The **submission deadline for talks is
-December 1st, 2023**. We will also informally meet with email developers on
+~~December 1st, 2023~~ December 4th, 2023 (updated)**. We will also informally meet with email developers on
 Saturday (that could be you; join us!)
 
 * **Speaker**: As a speaker, you're invited to present your work in the developer room.
@@ -78,7 +78,7 @@ cases.
 
 ## Important dates
 
-* December 1st, 2023: Deadline for submission of proposals
+* ~~December 1st, 2023~~ December 4th, 2023 (updated): Deadline for submission of proposals
 * December 15th, 2023: Announcement of final schedule
 * February 3rd, 2024: FOSDEM Day 1
 * February 4th, 2024: FOSDEM Day 2 - "Modern Email" DevRoom day!
