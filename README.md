@@ -31,7 +31,7 @@ Some suggestions for talks:
 * Overview of the current state of email (as a keynote)
 * Your free/open source software project(s) related to email. From demo to details.
 * Current developments, upcoming standards, e.g. [JMAP](https://jmap.io),
-  [structured data](https://datatracker.ietf.org/group/sml/about/), ...
+  [structured email](https://datatracker.ietf.org/group/sml/about/), ...
 * Efforts to modernize our email ecosystem, e.g., through implementations in
   modern languages.
 * Integrating email with other software, e.g., through APIs.
