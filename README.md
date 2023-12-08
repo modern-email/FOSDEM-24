@@ -3,7 +3,7 @@
 For the latest info: https://github.com/modern-email/FOSDEM-24
 
 > [!NOTE]
-> **Submissions are now closed** (update)
+> **Submissions are now closed** (updated)
 
 Email is the workhorse of digital communication. It's one of the oldest
 decentralized messaging platforms, and we must keep implementations up to date
