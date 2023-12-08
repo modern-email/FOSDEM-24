@@ -2,6 +2,9 @@
 
 For the latest info: https://github.com/modern-email/FOSDEM-24
 
+> [!NOTE]
+> **Submissions are now closed** (update)
+
 Email is the workhorse of digital communication. It's one of the oldest
 decentralized messaging platforms, and we must keep implementations up to date
 with new standards/techniques/programming languages.
@@ -52,15 +55,14 @@ appreciated, e.g., a collection of links to your work, talks, projects, blog
 posts, etc.
 
 Submissions **must** be made through Pretalx
-(https://pretalx.fosdem.org/fosdem-2024/cfp) no later than December 1st.
+(https://pretalx.fosdem.org/fosdem-2024/cfp) no later than ~December 1st~ December 4th (23:59 CET) (updated).
 
 The suggested duration for a talk is **25 minutes** (20 minutes presentation +
 5 minutes Q&A). However, we *explicitly* invite you to propose the best
 duration for your talk. If the best way to present your project is a **5-minute
 lightning talk**, we'll happily arrange a lightning session!
 
-Depending on the proposals, we may contact you to adapt the time of the session
-to fit the devroom schedule.
+Depending on the proposals, we may contact you to adapt the time of the session to fit the devroom schedule.
 
 **Important**: Choose "**Modern Email**" in the track drop-down menu when
 submitting your proposal. Otherwise, your proposal might go unnoticed!
