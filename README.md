@@ -81,7 +81,7 @@ cases.
 ## Important dates
 
 * ~~December 1st, 2023~~ December 4th, 2023 ((23:59 CET)) (updated): Deadline for submission of proposals
-* December 15th, 2023: Announcement of final schedule
+* ~~December 15th, 2023: Announcement of final schedule~~
 * February 3rd, 2024: FOSDEM Day 1
 * February 4th, 2024: FOSDEM Day 2 - "Modern Email" DevRoom day!
 
