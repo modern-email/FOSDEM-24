@@ -1,39 +1,37 @@
-# Update 19.01.2024
-
-A quick heads-up for participants:
-
-(If you are a speaker and havn't received a more detailed email, please contact us.)
-
-Travel and Accommodation:
-
-* If you still need to, book your travel and accommodation promptly to secure the best options.
-
-Event/Dinner (on Saturday):
-
-* We submitted a request for a BOF slot (Track C). This would be a great moment/place to meet and discuss. Once accepted, the BoF should appear at https://fosdem.org/2024/schedule/track/bofc/
-* There will also be a modern email dinner on Saturday from 19:00 CET. The current plan is to meet at the "Le Grand Cafe" (https://www.legrandcafe.be/). We'll keep you updated about location changes. We ask for a short message if you want to join the event and to mention how many people you will bring. It's not a "speakers dinner" -- everybody is welcome. For last-minute coordination, join the Matrix channel (see below).
-
-If you have any questions or need further assistance, please contact us.
-
-TLDR;
-
-* [ ] Book your travel
-* [ ] Tell us if you want to join the evening event and how many people you intend to bring
-
-Matrix channel:
-
-* https://matrix.to/#/#modern-email-fosdem-24-cfp:matrix.org
-
 # Call for Participation in the "Modern Email" Developer Room at FOSDEM '24!
 
 For the latest info: https://github.com/modern-email/FOSDEM-24
 
 > [!NOTE]
-> **Submissions are now closed** (updated)
+> **Submissions are closed, speakers have received instructions**
 
 Email is the workhorse of digital communication. It's one of the oldest
 decentralized messaging platforms, and we must keep implementations up to date
 with new standards/techniques/programming languages.
+
+## Meeting at FOSDEM
+
+The main devroom day is on Sunday. It will be packed with talks! Not everyone,
+especially those following the talks, will have time for discussions on Sunday.
+
+Saturday (and also Friday evening) is perfect for meeting up and having
+discussions.
+
+We have requested a slot in BoF C to get together and to facilitate discussions
+(we're waiting to hear back from FOSDEM, keep an eye on
+https://fosdem.org/2024/schedule/track/bofc/). Speakers, email developers and
+other email enthousiasts can also meet up informally in the various cafeteria.
+
+We also plan to meet up for dinner on Saturday evening. It's not a "speakers
+dinner" -- everybody is welcome.  The current plan is to meet at Le Grand Cafe
+(https://www.legrandcafe.be/) around 19:00. There will probably be a group
+leaving from the FOSDEM location.  To manage reservations, it will help if you
+let us know if you plan on joining, and with how many.  But if you decide to
+join last-minute, we'll make it work!
+
+Join the matrix room (see below) for coordinating during FOSDEM.
+
+## Call for Participation
 
 The "**Modern Email**" developer room is new at FOSDEM and seeks speakers,
 volunteers, and participants! We want to get together as email
@@ -43,8 +41,8 @@ and visions for the future of email.
 
 The Devroom will be **held on Sunday, February 4** in the afternoon, with
 primarily talks on the schedule. The **submission deadline for talks is
-~~December 1st, 2023~~ December 4th, 2023 (23:59 CET) (updated)**. We will also informally meet with email developers on
-Saturday (that could be you; join us!)
+~~December 1st, 2023~~ December 4th, 2023 (23:59 CET) (updated)**. We will also
+informally meet with email developers on Saturday (that could be you; join us!)
 
 * **Speaker**: As a speaker, you're invited to present your work in the developer room.
 * **Volunteer**: As a volunteer, you would be helping us out during the sessions.
@@ -108,14 +106,14 @@ cases.
 
 * ~~December 1st, 2023~~ December 4th, 2023 ((23:59 CET)) (updated): Deadline for submission of proposals
 * ~~December 15th, 2023: Announcement of final schedule~~
-* February 3rd, 2024: FOSDEM Day 1
+* February 3rd, 2024: FOSDEM Day 1 - get-together at BoF and dinner
 * February 4th, 2024: FOSDEM Day 2 - "Modern Email" DevRoom day!
 
 ## Contact
 
 For the latest details, see: https://github.com/modern-email/FOSDEM-24
 
-Join the matrix room: https://matrix.to/#/#modern-email-fosdem-24-cfp:matrix.org
+Join the matrix room (also for coordination during FOSDEM): https://matrix.to/#/#modern-email-fosdem-24-cfp:matrix.org
 
 Contact the organizers:
 
