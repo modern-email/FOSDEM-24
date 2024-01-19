@@ -1,15 +1,7 @@
-# Call for Participation in the "Modern Email" Developer Room at FOSDEM '24!
 
 For the latest info: https://github.com/modern-email/FOSDEM-24
 
-> [!NOTE]
-> **Submissions are closed, speakers have received instructions**
-
-Email is the workhorse of digital communication. It's one of the oldest
-decentralized messaging platforms, and we must keep implementations up to date
-with new standards/techniques/programming languages.
-
-## Meeting at FOSDEM
+## Meeting at FOSDEM [updated Jan 19 2024]
 
 The main devroom day is on Sunday. It will be packed with talks! Not everyone,
 especially those following the talks, will have time for discussions on Sunday.
@@ -30,6 +22,15 @@ let us know if you plan on joining, and with how many.  But if you decide to
 join last-minute, we'll make it work!
 
 Join the matrix room (see below) for coordinating during FOSDEM.
+
+# Call for Participation in the "Modern Email" Developer Room at FOSDEM '24!
+
+> [!NOTE]
+> **Submissions are closed, speakers have received instructions**
+
+Email is the workhorse of digital communication. It's one of the oldest
+decentralized messaging platforms, and we must keep implementations up to date
+with new standards/techniques/programming languages.
 
 ## Call for Participation
 
