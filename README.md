@@ -1,3 +1,29 @@
+# Update 19.01.2024
+
+A quick heads-up for participants:
+
+(If you are a speaker and havn't received a more detailed email, please contact us.)
+
+Travel and Accommodation:
+
+* If you still need to, book your travel and accommodation promptly to secure the best options.
+
+Event/Dinner (on Saturday):
+
+* We submitted a request for a BOF slot (Track C). This would be a great moment/place to meet and discuss. Once accepted, the BoF should appear at https://fosdem.org/2024/schedule/track/bofc/
+* There will also be a modern email dinner on Saturday from 19:00 CET. The current plan is to meet at the "Le Grand Cafe" (https://www.legrandcafe.be/). We'll keep you updated about location changes. We ask for a short message if you want to join the event and to mention how many people you will bring. It's not a "speakers dinner" -- everybody is welcome. For last-minute coordination, join the Matrix channel (see below).
+
+If you have any questions or need further assistance, please contact us.
+
+TLDR;
+
+* [ ] Book your travel
+* [ ] Tell us if you want to join the evening event and how many people you intend to bring
+
+Matrix channel:
+
+* https://matrix.to/#/#modern-email-fosdem-24-cfp:matrix.org
+
 # Call for Participation in the "Modern Email" Developer Room at FOSDEM '24!
 
 For the latest info: https://github.com/modern-email/FOSDEM-24
