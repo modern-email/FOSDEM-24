@@ -1,25 +1,23 @@
 
 For the latest info: https://github.com/modern-email/FOSDEM-24
 
-## Meeting at FOSDEM [updated Jan 19 2024]
+## Meeting at FOSDEM [updated Jan 31 2024]
 
 The main devroom day is on Sunday. It will be packed with talks! Not everyone,
 especially those following the talks, will have time for discussions on Sunday.
 
 Saturday (and also Friday evening) is perfect for meeting up and having
-discussions.
+discussions. On Saturday, we'll meet up at 12:00 in the BoF C room, see
+https://fosdem.org/2024/schedule/event/fosdem-2024-3657-modern-email-bof-creating-email-compat-data-more/.
+Speakers, email developers and other email enthousiasts can also meet up
+informally in the various cafeteria.
 
-We have requested a slot in BoF C to get together and to facilitate discussions
-(we're waiting to hear back from FOSDEM, keep an eye on
-https://fosdem.org/2024/schedule/track/bofc/). Speakers, email developers and
-other email enthousiasts can also meet up informally in the various cafeteria.
-
-We also plan to meet up for dinner on Saturday evening. It's not a "speakers
-dinner" -- everybody is welcome.  The current plan is to meet at Le Grand Cafe
-(https://www.legrandcafe.be/) around 19:00. There will probably be a group
-leaving from the FOSDEM location.  To manage reservations, it will help if you
-let us know if you plan on joining, and with how many.  But if you decide to
-join last-minute, we'll make it work!
+We'll also join up for dinner on Saturday evening.  It's not a "speakers
+dinner" -- everybody interested in email is welcome.  We have a reservation at
+Le Grand Cafe (https://www.legrandcafe.be/) from 19:00 onwards. There will
+probably be a group leaving from the FOSDEM location.  To manage the
+reservation, it will help if you let us know if you plan on joining, and with
+how many.  But if you decide to join last-minute, we'll make it work!
 
 Join the matrix room (see below) for coordinating during FOSDEM.
 
