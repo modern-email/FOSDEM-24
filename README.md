@@ -1,3 +1,5 @@
+> [!NOTE]  
+> This page shows the (archived) call for contributions for the **past** FOSDEM 2024 (see the [FOSDEM 2024 Archive]([https://archive.fosdem.org/2024/schedule/track/modern-email/) for videos of the event). For information on the Modern Email track at FOSDEM 2025, see https://github.com/modern-email/FOSDEM-25
 
 For the latest info: https://github.com/modern-email/FOSDEM-24
 
